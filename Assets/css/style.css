@@ -1,11 +1,25 @@
+@media only screen and (max-width: 600px) {
+        .column {
+          width: 100%;
+        }
+      }
 
 body {
     background-color: lightgrey;
     font-family: 'Peddana', serif;
+    line-height: 34px;
+
   }
+#nav-title {
+    color: lightseagreen
+    font-family: 'League Script', cursive;
+
+}
 
 h1 {
     color: lightseagreen
+    font-family: 'League Script', cursive;
+
 }
 
 h2 {
