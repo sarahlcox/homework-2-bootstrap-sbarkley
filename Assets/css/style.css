@@ -1,7 +1,12 @@
 
 body {
     background-color: lightgrey;
+    font-family: font-family: 'Peddana', serif;
   }
+
+h1 {
+    color: lightseagreen
+}
   
 .main-content{
     margin-top:3em;
